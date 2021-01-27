@@ -1,5 +1,5 @@
 var trailLength = 9 // The length of trail (8 by default; put more for longer "tail")
-var path = "http://cur.cursors-4u.net/sports/spo-1/spo16.png" // URL of your image
+var path = "https://telcontar.net/Misc/screeniecursors/Cursor%20arrow%20Aero.png" // URL of your image
 
 var standardbody=(document.compatMode=="CSS1Compat")? document.documentElement : document.body //create reference to common "body" across doctypes
 var i,d = 0
